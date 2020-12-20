@@ -9,7 +9,7 @@
 # 捐赠
 感谢每位捐赠支持者！
 
-**微信扫码**
+#### 微信扫码
 ![image](https://raw.githubusercontent.com/yiwiz/yw_public/master/donation/wechat.jpg)
 
 
